@@ -1,0 +1,9 @@
+python-telegram-bot==20.3
+python-dotenv==1.0.0
+requests==2.31.0
+langchain==0.0.304
+openai==0.27.0
+langchain_community==0.0.1
+faiss-cpu==1.7.4
+huggingface-hub==0.14.1
+sentence-transformers
