@@ -45,7 +45,8 @@ sudo apt-get install ffmpeg
 ```
 Create .env file with your OpenAI API key:
 
-OPENAI_API_KEY=your_api_key
+OPENAI_API_KEY=your_openai_api_key
+TELEGRAM_BOT_TOKEN=your_telegram_token
 
 
 ```run
